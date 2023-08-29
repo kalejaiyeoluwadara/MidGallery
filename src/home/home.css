@@ -1,0 +1,35 @@
+.text{
+    text-shadow:3px 11px 8px rgba(0, 0, 0, 0.4);
+}
+body{
+    background-color: white;
+    overflow-x: hidden;
+    overflow-y:hidden;
+    position: relative;
+}
+
+.box{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.col{
+    background-color: transparent;
+}
+
+.black{
+    text-shadow: 0px 11px 20px black;
+}
+.bg{
+    background-color: rgba(0, 0, 0, 0.39);
+}
+.mod{
+   background-image: linear-gradient(10deg, rgb(45, 41, 41), rgb(57 45 45));
+}
+.b1{
+    border-color: rgba(255, 255, 255, 0.29);
+    border-style: solid;
+}
+.b2 {
+    border-color: rgba(255, 255, 255, 0.29);
+    border-style: solid;
+}
