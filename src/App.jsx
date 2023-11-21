@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import "./app.css";
+import "./App.css";
 import Inbox from "./inbox/inbox";
 import View from "./me/view";
 import Home from "./home/home";
