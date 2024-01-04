@@ -82,7 +82,7 @@ const Home = ({ urlsToDisplay }) => {
   // Generate images from unsplash API
 
   return (
-    <div className="h-screen relative">
+    <div className="min-h-screen relative">
       <div
         className="absolute z-20 cursor-pointer top-20 h-[30%] w-[80%]"
         onClick={() => {
