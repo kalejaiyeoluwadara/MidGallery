@@ -1,5 +1,5 @@
 # A TIKTOK clone 
-#### A TikTok clone but instead of videos  pictures are displayes
+#### A TikTok clone but instead of videos  pictures are displayed
 ##Tools and Frameworks 
 #### Made use of
  * Axios for backend and generating images from u splash API
